@@ -1,0 +1,29 @@
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.deps.json
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.pdb
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Datos.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Datos.pdb
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.csproj.CopyComplete
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.pdb
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.dll
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.deps.json
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Negocio.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Datos.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Datos.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\bin\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.csprojAssemblyReference.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.csproj.CopyComplete
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Negocio\obj\Debug\netstandard2.0\Capa_Negocio.pdb

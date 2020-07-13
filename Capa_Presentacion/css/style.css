@@ -1,0 +1,232 @@
+﻿/* Formateo de estilos*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Patron background*/
+body {
+    /*  background: #222;*/
+    background-image: url(../resources/crow.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Manjari', sans-serif;
+}
+
+/* HEADER */
+.title h1 {
+    padding: 20px 0;
+    text-align: center;
+    font-size: 4em;
+    /*text-transform: uppercase;*/
+    color: #ffffff;
+}
+
+.header button {
+    background-color: #45a049;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 25px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: medium;
+}
+
+li a.active {
+    color: black;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    color: #064c92;
+}
+
+a:link {
+    text-decoration: none;
+    align-self: center;
+    color: #ffffff;
+}
+
+li {
+    display: inline;
+}
+
+.container {
+    background: white;
+    width: 90%;
+    max-width: 1000px;
+    margin: 1.6em auto;
+    display: grid;
+    gap: 1.6em;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+    .container > .header,
+    .container > .content,
+    .container > .sidebar,
+    .container > .footer,
+    .container > div {
+        background: #fff;
+        padding: 20px;
+        border: 1px solid #000000;
+    }
+
+    .container > .header,
+    .container > .footer {
+        grid-column: 1/6;
+        background: rgb(116, 9, 9);
+        color: #fae8e8;
+    }
+
+    .container > .content {
+        grid-column: span 3; /* contenedor de linea (renglón)*/
+    }
+
+.content > .article {
+    /*  background: rgb(80, 24, 24);*/
+    background: rgb(0,0,0);
+    padding: 20px;
+    margin-top: 5px;
+    color: rgb(255, 255, 255);
+}
+/*#dfe6e9*/
+.content .article h1,
+.content .article p {
+    padding: 10px;
+}
+
+
+.container > .sidebar {
+    grid-column: span 2;
+    background: #064c92;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container .sidebar img {
+    /*width: 100px*/
+    margin: 5px;
+}
+
+/* ----------about---------- */
+
+.container > .image {
+    grid-column: 1/6;
+}
+/*---------------------------*/
+
+
+/* ---------style----------- */
+.content2 > .article {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ffffff;
+}
+
+.container > .content2 {
+    grid-column: 1/6;
+}
+/* --------contact--------- */
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    input[type=submit]:hover {
+        background-color: #45a049;
+    }
+
+.container3 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.container > .content3 {
+    grid-column: 1/6;
+}
+
+
+/*  +++ Footer +++ */
+
+/*  ----Tiempo de navegación----  */
+.timepage {
+    text-align: center;
+    width: 80px;
+    font-size: 12px;
+    border: 1px solid #56aaf3;
+    padding: 6px;
+    margin: 12px 0 12px 0;
+}
+
+.footer pre {
+    font-size: large;
+    font-weight: 550;
+    font-family: 'Manjari', sans-serif;
+}
+
+/* Query para responsabilidad con breakpoints*/
+
+@media screen and (max-width: 768px) {
+    .header {
+        text-align: center;
+    }
+
+    .container .content {
+        grid-column: 1/-1; /*Incio al final*/
+    }
+
+    .container .sidebar {
+        grid-column: 1/-1;
+    }
+
+    .container .releted-post {
+        grid-column: 1/6;
+    }
+
+    .container .header li {
+        grid-column: 1/-1;
+    }
+}
+
+.back-to-top {
+    position: fixed;
+    right: 3rem;
+    bottom: 3rem;
+    display: block;
+    background: tomato;
+    color: white;
+    padding: 25px 40px;
+    transition: all 0.5 liner;
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+    .back-to-top:hover {
+        opacity: 1;
+    }
+
+a {
+    color: #fff;
+}

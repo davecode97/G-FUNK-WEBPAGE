@@ -1,0 +1,26 @@
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.deps.json
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\Acer\Desktop\Clases\Programación Web\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.deps.json
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfoInputs.cache
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfo.cs
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\llane\Documents\ITH\8 Semestre\Programación Web\Unidad 4. Programación del lado del servidor\PROYECTO WEB G-FUNK\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.deps.json
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\bin\Debug\netstandard2.0\Capa_Entidades.pdb
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.csprojAssemblyReference.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfoInputs.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.AssemblyInfo.cs
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.dll
+C:\Users\llane\Desktop\PROYECTO WEB G-FUNK\Capa_Entidades\obj\Debug\netstandard2.0\Capa_Entidades.pdb
